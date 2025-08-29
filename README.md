@@ -1,6 +1,11 @@
 # Olá sou a Beatriz Novais 🖐️
 Software engineer | Full Stack Developer | .NET | C# | Angular | SQL Server | Typescript | Javascript
 
+🎓 Formada em Analise e Desenvolvimento de Sistema pela Universidade Presbiteriana Mackenzie.<br/>
+📚 MBA de Arquitetura de Soluções pela FIAP.<br/>
+🖥️ Apaixonada por desenvolvimento e arquitetura de projetos, sempre em busca de aprimorar minhas habilidades e explorar novas soluções.<br/>
+💼 Software engineer
+
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
